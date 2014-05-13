@@ -25,14 +25,14 @@
  * @package quip
  * @subpackage lexicon
  */
-$_lang['perm.comment_approve'] = 'Een reactie goedkeuren.';
-$_lang['perm.comment_list'] = 'Bekijk reacties voor een reactie-lijst.';
-$_lang['perm.comment_list_unapproved'] = 'Bekijk afgewezen reacties.';
-$_lang['perm.comment_remove'] = 'Verwijder een reactie.';
-$_lang['perm.comment_update'] = 'Update een reactie.';
-$_lang['perm.thread_list'] = 'Bekijk beschikbare reactie-lijsten.';
-$_lang['perm.thread_manage'] = 'Beheer een reactie-lijst.';
-$_lang['perm.thread_remove'] = 'Verwijder een reactie-lijst.';
-$_lang['perm.thread_truncate'] = 'Knot alle reacties af van deze reactie-lijst.';
-$_lang['perm.thread_update'] = 'Ververs een reactie-lijst.';
-$_lang['perm.thread_view'] = 'Bekijk een reactie-lijst.';
+$_lang['perm.comment_approve'] = 'Reacties goedkeuren.';
+$_lang['perm.comment_list'] = 'Bekijk de reacties in een discussie';
+$_lang['perm.comment_list_unapproved'] = 'Bekijk afgekeurde reacties.';
+$_lang['perm.comment_remove'] = 'Reacties verwijderen.';
+$_lang['perm.comment_update'] = 'Reacties aanpassen.';
+$_lang['perm.thread_list'] = 'Discussies bekijken';
+$_lang['perm.thread_manage'] = 'Discussies beheren';
+$_lang['perm.thread_remove'] = 'Discussies verwijderen.';
+$_lang['perm.thread_truncate'] = 'Verwijderen van alle reacties uit een discussie';
+$_lang['perm.thread_update'] = 'Discussies aanpassen';
+$_lang['perm.thread_view'] = 'Discussies bekijken.';

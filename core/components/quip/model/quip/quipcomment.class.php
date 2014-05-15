@@ -493,7 +493,8 @@ class quipComment extends xPDOSimpleObject {
         if ($this->getOption('showWebsite',$properties,true) && !empty($commentArray['website'])) {
             $commentArray['authorName'] = $this->xpdo->quip->getChunk($authorTpl,array(
                 'name' => $commentArray[$nameField],
-                'url' => $commentArray['website'],
+                'url' => 'http://'.str_replace('http://','',$commentArray['website']),
+                
             ));
         }
 

@@ -159,4 +159,4 @@ $_lang['setting_quip.emailsTo_desc'] = 'E-mailadres waar berichten naar verzonde
 $_lang['setting_quip.emailsReplyTo'] = 'Antwoord-aan e-mailadres ("Reply-to")';
 $_lang['setting_quip.emailsReplyTo_desc'] = 'Het e-mailadres wat gebruikt wordt als reply-to. Laat leeg om "emailFrom" te gebruiken.';
 $_lang['setting_quip.emails_from_name'] = 'Naam afzender e-mails';
-$_lang['setting_quip.emails_from_name_desc'] = 'De naam die te ziem is als afzender, samen met het e-mailadres van de afzender.';
+$_lang['setting_quip.emails_from_name_desc'] = 'De naam die te zien is als afzender, samen met het e-mailadres van de afzender.';
